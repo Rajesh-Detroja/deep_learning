@@ -20,6 +20,7 @@
 02_activities/assignments/*.zip
 02_activities/assignments/*.txt
 test_notebooks/
+02_activities/assignments/data/FashionMNIST/raw/*
 
 # Large artifacts generated during labs
 voc_representations.h5
